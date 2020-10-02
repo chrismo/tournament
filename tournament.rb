@@ -25,7 +25,7 @@ def a_preferred?(a_key, b_key)
 end
 
 fn = ARGV[0] || 'input.txt'
-options = File.readlines(fn, chomp: true).select { |ln| ln.starts_with(http) }.shuffle
+options = File.readlines(fn, chomp: true).select { |ln| ln.start_with?('http') }.shuffle
 comparisons = 0
 options.map! { |a| {a => []} }
 
