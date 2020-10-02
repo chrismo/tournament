@@ -1,9 +1,9 @@
 # tops
 # 1st - 1 : 2nd - 0 : 3rd/4th - 0
 https://www.programmingfonts.org/#hasklig
-# 1st - 1 : 2nd - 0 : 3rd/4th - 0
+# 1st - 1 : 2nd - 0 : 3rd/4th - 0 - sk-modernist mono is a paid font
 https://www.programmingfonts.org/#sk-modernist
-# 1st - 0 : 2nd - 1 : 3rd/4th - 0
+# 1st - 0 : 2nd - 1 : 3rd/4th - 0 - cartograph is a paid font
 https://www.programmingfonts.org/#cartograph
 # 1st - 0 : 2nd - 1 : 3rd/4th - 0
 https://www.programmingfonts.org/#space
@@ -20,31 +20,33 @@ https://www.programmingfonts.org/#jetbrainsmono
 https://www.programmingfonts.org/#borg-sans-mono
 https://www.programmingfonts.org/#victor-mono
 
-# sans and ligatures - nah
-# https://www.programmingfonts.org/#nanum-gothic-coding
-# https://www.programmingfonts.org/#monoid
-# https://www.programmingfonts.org/#iosevka
-# https://www.programmingfonts.org/#d2coding
-
 # quick visual inspection highlights
+https://www.programmingfonts.org/#roboto
+https://www.programmingfonts.org/#sometype-mono
+https://www.programmingfonts.org/#inconsolata-g
 https://www.programmingfonts.org/#anka-coder
 https://www.programmingfonts.org/#aurulent
 https://www.programmingfonts.org/#dejavu
 https://www.programmingfonts.org/#droid-sans
 https://www.programmingfonts.org/#go-mono
 https://www.programmingfonts.org/#hack
-https://www.programmingfonts.org/#inconsolata-g
 https://www.programmingfonts.org/#luxi
 https://www.programmingfonts.org/#meslo
 https://www.programmingfonts.org/#office-code-pro
 https://www.programmingfonts.org/#oxygen
-https://www.programmingfonts.org/#roboto
-https://www.programmingfonts.org/#sometype-mono
 
-# quirky honorable mentions
-https://www.programmingfonts.org/#ellograph
+# sans and ligatures - nah
+# https://www.programmingfonts.org/#nanum-gothic-coding
+# https://www.programmingfonts.org/#monoid
+# https://www.programmingfonts.org/#iosevka
+# https://www.programmingfonts.org/#d2coding
+
+## quirky honorable mentions
+# ellograph is licensed, same as cartograph
+# https://www.programmingfonts.org/#ellograph
 # tried daddytimemono in RubyMine and didn't like it, but still do on its own
 https://www.programmingfonts.org/#daddytimemono
-https://www.programmingfonts.org/#monofur
+# monofur won't install in Catalina for some reason
+# https://www.programmingfonts.org/#monofur
 # hermit has not a lot of quirk, but a little
 https://www.programmingfonts.org/#hermit
